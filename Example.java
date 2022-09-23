@@ -11,5 +11,6 @@ public class Example {
     //s1.getName();
     System.out.println("rollno. is " + s1.RollNo());
     System.out.println("name is " + s1.Name());
+        System.out.println("code is finished.")
     }
 }
